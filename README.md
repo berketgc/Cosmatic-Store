@@ -1,6 +1,6 @@
 # Cosmatic Store (Web project)
 
-LİVE: https://vercel.com/berkes-projects-41d9fa5a/cosmatic-store
+LİVE: [https://vercel.com/berkes-projects-41d9fa5a/cosmatic-store](https://cosmatic-store.vercel.app/)
 
 This is a React.js project built with **Tailwind CSS** and **React Router**.  
 The project includes multiple pages, a responsive navbar, and basic routing.
